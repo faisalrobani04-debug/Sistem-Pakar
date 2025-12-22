@@ -1,4 +1,8 @@
 # Sistem-Pakar
+
+
+
+
 def tanya(gejala):
     return input(f"Apakah Anda mengalami {gejala}? (y/n): ").lower() == "y"
 
