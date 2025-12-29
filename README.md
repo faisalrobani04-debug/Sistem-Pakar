@@ -1,9 +1,10 @@
-p
-p
-def tanya(gejala):
+
+Kode    
+    
+    def tanya(gejala):
     return input(f"Apakah Anda mengalami {gejala}? (y/n): ").lower() == "y"
 
-def sistem_pakar():
+    def sistem_pakar():
     print("=== SISTEM PAKAR DIAGNOSIS PENYAKIT RINGAN MUSIM HUJAN ===\n")
 
     nama = input("Masukkan nama Anda: ").strip().title()
