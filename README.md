@@ -1,6 +1,5 @@
 # Sistem-Pakar
-
-
+Ini adalah kode sistem pakar yang di buat oleh kelompok saya di amata kuliah ELemen Kecerdasan Buatan
 
 
 def tanya(gejala):
